@@ -1,7 +1,7 @@
 master branch file content
 develop branch file content
-
+<<<<<<< HEAD
 F_a added
-
+=======
 f_b added
-
+>>>>>>> feature_b
